@@ -1,9 +1,9 @@
 # How to generate diff of Bitcoin Core and the Drivechain project
 
-Clone drivechain-project/bitcoin (default branch is mainchainBMM):
+Clone drivechain-project/mainchain (default branch is master):
 ------------------------------------------------------------------
 
-```git clone https://github.com/drivechain-project/bitcoin```
+```git clone https://github.com/drivechain-project/mainchain```
 
 Add upstream Bitcoin as a branch in local git repository:
 ---------------------------------------------------------
