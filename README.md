@@ -1,9 +1,3 @@
-# Moved to LayerTwo-Labs
-The current version of the software can be found here: https://github.com/LayerTwo-Labs
-
-
-
-
 # How to generate diff of Bitcoin Core and the Drivechain project
 
 Clone drivechain-project/mainchain (default branch is master):
